@@ -120,8 +120,8 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-EMAIL_ADDRESS = 'nitu01019@gmail.com'
-EMAIL_PASSWORD = 'ciyd rfzu talz wjuy'
+EMAIL_ADDRESS = 'add ur gmail'
+EMAIL_PASSWORD = 'add ur gmail semi  password for gmail '#then oly this would work
 TRANSACTIONS_PER_BLOCK = 1
 
 # PUZZLE
