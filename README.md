@@ -30,11 +30,11 @@ This project is a **Secure Online Voting System** that leverages **Blockchain Te
 
 Ensure you have the following installed:
 
-- Node.js
-- Ganache / Ethereum Testnet
-- Truffle / Hardhat
+- Django from python
+- python
+- use Anaconda else cmd prompt
 - Metamask Extension
-- MongoDB (if using a database)
+- Mongodb
 
 ### Steps to Run the Project
 
@@ -90,7 +90,7 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-**For queries or issues, please contact ****[nitu01019@gmail.com](mailto\:nitu01019@gmail.com)** or open an issue on GitHub.
+**For queries or issues, please contact ****[nitu01019@gmail.com](mailto\:nitu01019@gmail.com)** or open an issue on GitHub.Any  Issues Do Contact
 
 ---
 
